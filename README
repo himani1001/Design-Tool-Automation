@@ -1,6 +1,6 @@
-# Project Title
+#Project Title
 
-## Introduction
+##Introduction
 
 This project aims to create a web application that utilizes AI to assist in the design and development process by automating the generation of Figma design specifications, React components, and content type schemas. The application integrates a large language model (LLM) through the OpenAI API to enable users to generate detailed design specifications based on their descriptions, automatically produce React component code, and create JSON schemas for content types. This automation not only enhances productivity but also ensures consistency and creativity in the development workflow.
 
