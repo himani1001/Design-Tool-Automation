@@ -15,7 +15,6 @@ This project aims to create a web application that utilizes AI to assist in the 
 
 - **Frontend**: React.js, Axios, CSS
 - **Backend**: Node.js, Express, Axios
-- **Database**: MongoDB (if required for future enhancements)
 - **API**: OpenAI API for LLM integration
 - **Figma API**: For creating and managing Figma files
 
